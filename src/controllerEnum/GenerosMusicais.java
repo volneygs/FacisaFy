@@ -5,7 +5,7 @@ public enum GenerosMusicais {
 	ROCK,
 	POP,
 	MPB,
-	JAZ,
+	JAZZ,
 	CLASSICA,
 	FORRO;
 
